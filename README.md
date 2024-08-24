@@ -1,4 +1,4 @@
-	
+![image](https://github.com/user-attachments/assets/25fdf378-a946-4331-869e-7488a262f859)	
 GARAGE MANAGEMENT SYSTEM
 
 The Garage Management System (GMS) developed in Salesforce has successfully addressed the challenges faced by traditional garage operations. By leveraging Salesforce's robust platform and customizable features, the GMS has streamlined various aspects of garage management, including:
@@ -17,3 +17,5 @@ Overall, the GMS has demonstrated its potential to enhance garage operations, in
 
 Future enhancements could include integrating with telematics systems for predictive maintenance, implementing mobile app functionality for customers, and exploring the use of artificial intelligence for advanced analytics and automation.
 
+
+DEMO LINK -  https://drive.google.com/file/d/1KZ05sQBjSHciVd0Eykc1QlmSuloKdGu3/view?usp=drive_link
